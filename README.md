@@ -14,7 +14,7 @@ Installation / Usage
 
 To install use pip:
 
-    $ pip install regex_collection
+    $ pip install regex_collection(todo)
 
 
 Or clone the repo:
